@@ -1,0 +1,24 @@
+function fish_greeting
+echo -e '\e[6 q'
+neofetch
+fortune | cowsay
+end
+
+abbr u 'cd ../'
+abbr uu 'cd ../../'
+abbr uuu 'cd ../../..'
+abbr banno 'cd; cd ../usr/bin/p/'
+set -x PYTHONSTARTUP "/data/data/com.termux/files/home/.pythonrc"
+abbr j jobs
+abbr sd 'cd /storage/3638-3333'
+abbr rus 'cargo clean; cargo run'
+abbr rhs 'runhaskell'
+abbr hrm 'bash ~/scripts/clean.sh'
+abbr du 'du -ha | sort -k1hr | head -n 20'
+
+# pnpm
+set -gx PNPM_HOME "/data/data/com.termux/files/home/.local/share/pnpm"
+if not string match -q -- $PNPM_HOME $PATH
+  set -gx PATH "$PNPM_HOME" $PATH
+end
+# pnpm end

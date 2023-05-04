@@ -1,0 +1,70 @@
+add_newline = false
+
+# "$schema" = 'https://starship.rs/config-schema.json'
+
+[character]
+success_symbol = "[⫸](bold #62be55)"
+error_symbol = "[ ❌](bold red)"
+
+[package]
+disabled = true
+
+[battery]
+full_symbol = "🔋"
+charging_symbol = "🔌"
+discharging_symbol = "⚡"
+[[battery.display]]
+threshold = 99
+style = "bold red"
+
+[cmd_duration]
+min_time = 5
+format = " took [$duration]($style)"
+
+[status]
+style = "bg:#808080"
+symbol = "🙀 "
+format = '[\[$symbol$status\]]($style) '
+disabled = false
+
+[directory]
+truncation_length = 5
+format = "[$path]($style)[$lock_symbol]($lock_style) "
+
+[git_commit]
+commit_hash_length = 8
+style = "bold white"
+
+[git_state]
+format = '[\($state( $progress_current of $progress_total)\)]($style) '
+
+[git_status]
+conflicted = "⚔️ "
+ahead = "🏎️ 💨 ×${count}"
+behind = "🐢 ×${count}"
+diverged = "🔱 🏎️ 💨 ×${ahead_count} 🐢 ×${behind_count}"
+untracked = "🛤️  ×${count}"
+stashed = "📦 "
+modified = "📝 ×${count}"
+staged = "🗃️  ×${count}"
+renamed = "📛 ×${count}"
+deleted = "🗑️  ×${count}"
+style = "bright-white"
+format = "$all_status$ahead_behind"
+
+[hostname]
+ssh_only = false
+format = "<[$hostname]($style)>"
+trim_at = "-"
+style = "bold dimmed white"
+disabled = true
+
+[username]
+style_user = "bold dimmed blue"
+show_always = true
+
+[time]
+time_format = "%T"
+format = " 🕙 $time($style) "
+style = "bright-white"
+disabled = false

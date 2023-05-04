@@ -1,0 +1,5 @@
+[4mPlugins(B[m
+fish-spec	omf
+
+[4mThemes(B[m
+bobthefish	default		neolambda	pie		scorphish
