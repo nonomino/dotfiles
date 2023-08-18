@@ -1,5 +1,5 @@
-abbr -a -- a startarch # imported from a universal variable, see `help abbr`
 abbr -a -- gitap 'git pull' # imported from a universal variable, see `help abbr`
+abbr -a -- a startarch # imported from a universal variable, see `help abbr`
 abbr -a -- gita 'git add .; git commit -m commit; git push origin main;' # imported from a universal variable, see `help abbr`
 abbr -a -- conf 'cd $HOME; nvim ./.config/fish/config.fish' # imported from a universal variable, see `help abbr`
 abbr -a -- lzm 'cd /data/data/com.termux/files/home; cd ../usr/lib/Lazymux; python lazymux.py' # imported from a universal variable, see `help abbr`
@@ -9,27 +9,27 @@ abbr -a -- pipup 'python3 -m pip install --upgrade pip' # imported from a univer
 abbr -a -- prdb 'cd /data/data/com.termux/files/home; cd storage/shared/Data/Webs/prdbms' # imported from a universal variable, see `help abbr`
 abbr -a -- hawk 'cd ../usr/lib/redhawk/RED_HAWK/' # imported from a universal variable, see `help abbr`
 abbr -a -- l 'lsd -AX1' # imported from a universal variable, see `help abbr`
-abbr -a -- no 'cd /data/data/com.termux/files/home; cd storage/shared/Data/Webs/dev/nonomino' # imported from a universal variable, see `help abbr`
 abbr -a -- pgg 'pg_ctl -D $PREFIX/var/lib/postgresql' # imported from a universal variable, see `help abbr`
 abbr -a -- cur echo\ -e\ \'\\e\[6\ q\' # imported from a universal variable, see `help abbr`
-abbr -a -- bs bullshit-generator # imported from a universal variable, see `help abbr`
-abbr -a -- fc 'fortune | cowsay' # imported from a universal variable, see `help abbr`
+abbr -a -- tree 'tree -d' # imported from a universal variable, see `help abbr`
 abbr -a -- wege 'curl -4 https://wttr.in/bangalore' # imported from a universal variable, see `help abbr`
 abbr -a -- py 'python3 -S' # imported from a universal variable, see `help abbr`
 abbr -a -- up 'pkg upgrade -y' # imported from a universal variable, see `help abbr`
-abbr -a -- c echo\ -e\ \'\\e\[6\ q\'\;clear # imported from a universal variable, see `help abbr`
-abbr -a -- lcls 'clear; pwd; lsd -A' # imported from a universal variable, see `help abbr`
-abbr -a -- lg lazygit # imported from a universal variable, see `help abbr`
-abbr -a -- jou 'cd /data/data/com.termux/files/usr/rom/journal/' # imported from a universal variable, see `help abbr`
-abbr -a -- CLS 'clear; exit; exit;' # imported from a universal variable, see `help abbr`
-abbr -a -- i 'pkg install' # imported from a universal variable, see `help abbr`
-abbr -a -- tree 'tree -d' # imported from a universal variable, see `help abbr`
-abbr -a -- ls 'lsd -AX' # imported from a universal variable, see `help abbr`
-abbr -a -- A startarch # imported from a universal variable, see `help abbr`
+abbr -a -- fc 'fortune | cowsay' # imported from a universal variable, see `help abbr`
+abbr -a -- no 'cd /data/data/com.termux/files/home; cd storage/shared/Data/Webs/dev/nonomino' # imported from a universal variable, see `help abbr`
 abbr -a -- show 'pkg show' # imported from a universal variable, see `help abbr`
 abbr -a -- vim nvim # imported from a universal variable, see `help abbr`
 abbr -a -- thanks 'clear;exit' # imported from a universal variable, see `help abbr`
+abbr -a -- bs bullshit-generator # imported from a universal variable, see `help abbr`
 abbr -a -- rbr 'cd /data/data/com.termux/files/home; cd storage/shared/Data/Ruby' # imported from a universal variable, see `help abbr`
+abbr -a -- CLS 'clear; exit; exit;' # imported from a universal variable, see `help abbr`
+abbr -a -- c echo\ -e\ \'\\e\[6\ q\'\;clear # imported from a universal variable, see `help abbr`
+abbr -a -- lg lazygit # imported from a universal variable, see `help abbr`
+abbr -a -- jou 'cd /data/data/com.termux/files/usr/rom/journal/' # imported from a universal variable, see `help abbr`
+abbr -a -- ls 'lsd -AX' # imported from a universal variable, see `help abbr`
+abbr -a -- i 'pkg install' # imported from a universal variable, see `help abbr`
+abbr -a -- A startarch # imported from a universal variable, see `help abbr`
+abbr -a -- lcls 'clear; pwd; lsd -A' # imported from a universal variable, see `help abbr`
 abbr -a -- cls echo\ -e\ \'\\e\[6\ q\'\;clear # imported from a universal variable, see `help abbr`
 abbr -a -- starc 'nvim /data/data/com.termux/files/home/.config/starship.toml' # imported from a universal variable, see `help abbr`
 abbr -a -- bye 'clear;exit' # imported from a universal variable, see `help abbr`
@@ -43,3 +43,8 @@ abbr -a -- rus 'cargo clean; cargo run'
 abbr -a -- rhs runhaskell
 abbr -a -- hrm 'bash ~/scripts/clean.sh'
 abbr -a -- du 'du -ha | sort -k1hr | head -n 20'
+abbr -a -- d 'cd; cd d'
+abbr -a -- r 'cd $HOME; cd storage/shared/Data/r'
+abbr -a -- edit 'launch -a édi'
+abbr -a -- o 'launch -a obs'
+abbr -a -- ccc c
