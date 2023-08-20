@@ -1,0 +1,1312 @@
+.
+├── Android
+│   ├── data
+│   │   ├── app.rvx.android.youtube  [error opening dir]
+│   │   ├── as.io.openshop  [error opening dir]
+│   │   ├── au.com.shiftyjelly.pocketcasts  [error opening dir]
+│   │   ├── bbc.iplayer.android  [error opening dir]
+│   │   ├── ch.icoaching.wrio  [error opening dir]
+│   │   ├── ch.protonmail.android  [error opening dir]
+│   │   ├── cn.wps.moffice_eng  [error opening dir]
+│   │   ├── cn.xender  [error opening dir]
+│   │   ├── com.OskarStalberg.Townscaper  [error opening dir]
+│   │   ├── com.adobe.scan.android  [error opening dir]
+│   │   ├── com.ai.avatar  [error opening dir]
+│   │   ├── com.android.chrome  [error opening dir]
+│   │   ├── com.android.vending  [error opening dir]
+│   │   ├── com.anydo  [error opening dir]
+│   │   ├── com.arkadiusz.dayscounter  [error opening dir]
+│   │   ├── com.aura.oobe.samsung  [error opening dir]
+│   │   ├── com.b16h22.sliced  [error opening dir]
+│   │   ├── com.bigbasket.mobileapp  [error opening dir]
+│   │   ├── com.bigheadtechies.diary  [error opening dir]
+│   │   ├── com.bitsmedia.android.muslimpro  [error opening dir]
+│   │   ├── com.bluehorizonapps.nicelock3  [error opening dir]
+│   │   ├── com.canva.editor  [error opening dir]
+│   │   ├── com.chrome.dev  [error opening dir]
+│   │   ├── com.cnn.mobile.android.phone  [error opening dir]
+│   │   ├── com.codepoint.learnnetworking  [error opening dir]
+│   │   ├── com.cxinventor.file.explorer  [error opening dir]
+│   │   ├── com.dailymotion.dailymotion  [error opening dir]
+│   │   ├── com.dci.magzter  [error opening dir]
+│   │   ├── com.dictionary  [error opening dir]
+│   │   ├── com.digilocker.android  [error opening dir]
+│   │   ├── com.digitalgene.familytree  [error opening dir]
+│   │   ├── com.diotek.diodict3.lookup.adddict.engeng  [error opening dir]
+│   │   ├── com.diotek.diodict3.lookup.adddict.enggle  [error opening dir]
+│   │   ├── com.diotek.diodict3.lookup.adddict.fraeng  [error opening dir]
+│   │   ├── com.diotek.sec.lookup.dictionary  [error opening dir]
+│   │   ├── com.discord  [error opening dir]
+│   │   ├── com.duolingo  [error opening dir]
+│   │   ├── com.dv.adm  [error opening dir]
+│   │   ├── com.dvloper.slendrinatheschool  [error opening dir]
+│   │   ├── com.encury.nyus  [error opening dir]
+│   │   ├── com.eterno  [error opening dir]
+│   │   ├── com.facebook.appmanager  [error opening dir]
+│   │   ├── com.fast.free.unblock.secure.vpn  [error opening dir]
+│   │   ├── com.flyersoft.moonreaderp  [error opening dir]
+│   │   ├── com.foxdebug.acode  [error opening dir]
+│   │   ├── com.ghisler.android.TotalCommander  [error opening dir]
+│   │   ├── com.goodreads  [error opening dir]
+│   │   ├── com.google.android.apps.adm  [error opening dir]
+│   │   ├── com.google.android.apps.docs  [error opening dir]
+│   │   ├── com.google.android.apps.magazines  [error opening dir]
+│   │   ├── com.google.android.apps.maps  [error opening dir]
+│   │   ├── com.google.android.apps.nbu.files  [error opening dir]
+│   │   ├── com.google.android.apps.nbu.paisa.user  [error opening dir]
+│   │   ├── com.google.android.apps.translate  [error opening dir]
+│   │   ├── com.google.android.as  [error opening dir]
+│   │   ├── com.google.android.gm  [error opening dir]
+│   │   ├── com.google.android.gms  [error opening dir]
+│   │   ├── com.google.android.googlequicksearchbox  [error opening dir]
+│   │   ├── com.google.android.inputmethod.latin  [error opening dir]
+│   │   ├── com.google.android.projection.gearhead  [error opening dir]
+│   │   ├── com.google.android.tts  [error opening dir]
+│   │   ├── com.google.android.youtube  [error opening dir]
+│   │   ├── com.greentech.hadith  [error opening dir]
+│   │   ├── com.greentech.islamicquiz  [error opening dir]
+│   │   ├── com.greentech.quran  [error opening dir]
+│   │   ├── com.hamsteroncoke.zenge  [error opening dir]
+│   │   ├── com.hitrolab.audioeditor  [error opening dir]
+│   │   ├── com.httrack.android  [error opening dir]
+│   │   ├── com.ichi2.anki  [error opening dir]
+│   │   ├── com.idea.backup.smscontacts  [error opening dir]
+│   │   ├── com.idmgroup.fng.retro  [error opening dir]
+│   │   ├── com.indiatoday  [error opening dir]
+│   │   ├── com.infinity.traffix  [error opening dir]
+│   │   ├── com.ingyomate.shakeit  [error opening dir]
+│   │   ├── com.itemstudio.castro.pro  [error opening dir]
+│   │   ├── com.jio.media.ondemand  [error opening dir]
+│   │   ├── com.jonathanpuckey.radiogarden  [error opening dir]
+│   │   ├── com.july.ndtv  [error opening dir]
+│   │   ├── com.kizitonwose.lasttime  [error opening dir]
+│   │   ├── com.kmplayerpro  [error opening dir]
+│   │   ├── com.krishi.krishi  [error opening dir]
+│   │   ├── com.linkedin.android  [error opening dir]
+│   │   ├── com.luckydroid.droidbase  [error opening dir]
+│   │   ├── com.maple.periodictablequiz  [error opening dir]
+│   │   ├── com.medhaapps.wififtpserver.pro  [error opening dir]
+│   │   ├── com.mediocre.commute  [error opening dir]
+│   │   ├── com.memoria.photos.gallery  [error opening dir]
+│   │   ├── com.microsoft.appmanager  [error opening dir]
+│   │   ├── com.microsoft.office.excel  [error opening dir]
+│   │   ├── com.mindfulmuslim  [error opening dir]
+│   │   ├── com.mindtwisted.kanjistudy  [error opening dir]
+│   │   ├── com.mixplorer.silver  [error opening dir]
+│   │   ├── com.mobeedom.android.jinaFS  [error opening dir]
+│   │   ├── com.mobile_infographics_tools.mydrive_ext  [error opening dir]
+│   │   ├── com.mobisystems.fileman  [error opening dir]
+│   │   ├── com.mventus.selfcare.activity  [error opening dir]
+│   │   ├── com.myairtelapp  [error opening dir]
+│   │   ├── com.mycompany.app.soulbrowser  [error opening dir]
+│   │   ├── com.nemo.vidmate  [error opening dir]
+│   │   ├── com.nononsenseapps.feeder.play  [error opening dir]
+│   │   ├── com.noodlecake.altosadventure  [error opening dir]
+│   │   ├── com.noodlecake.altosodyssey  [error opening dir]
+│   │   ├── com.nordcurrent.canteenhd  [error opening dir]
+│   │   ├── com.opera.app.news  [error opening dir]
+│   │   ├── com.opera.browser  [error opening dir]
+│   │   ├── com.opera.browser.beta  [error opening dir]
+│   │   ├── com.opera.mini.native  [error opening dir]
+│   │   ├── com.opera.mini.native.beta  [error opening dir]
+│   │   ├── com.osp.app.signin  [error opening dir]
+│   │   ├── com.ovilex.bussimulator2015  [error opening dir]
+│   │   ├── com.pavelrekun.skit.premium  [error opening dir]
+│   │   ├── com.phlox.simpleserver  [error opening dir]
+│   │   ├── com.phonepe.app  [error opening dir]
+│   │   ├── com.playit.videoplayer  [error opening dir]
+│   │   ├── com.pomelogames.TowerGame  [error opening dir]
+│   │   ├── com.quora.android  [error opening dir]
+│   │   ├── com.realvnc.viewer.android  [error opening dir]
+│   │   ├── com.rekhta.dict  [error opening dir]
+│   │   ├── com.rhmsoft.code  [error opening dir]
+│   │   ├── com.rhmsoft.edit.pro  [error opening dir]
+│   │   ├── com.rsupport.mvagent  [error opening dir]
+│   │   ├── com.ryzmedia.tatasky  [error opening dir]
+│   │   ├── com.samsung.android.alive.service  [error opening dir]
+│   │   ├── com.samsung.android.allshare.service.fileshare  [error opening dir]
+│   │   ├── com.samsung.android.app.homestar  [error opening dir]
+│   │   ├── com.samsung.android.app.notes  [error opening dir]
+│   │   ├── com.samsung.android.app.notes.addons  [error opening dir]
+│   │   ├── com.samsung.android.app.routines  [error opening dir]
+│   │   ├── com.samsung.android.app.smartcapture  [error opening dir]
+│   │   ├── com.samsung.android.aremoji  [error opening dir]
+│   │   ├── com.samsung.android.aware.service  [error opening dir]
+│   │   ├── com.samsung.android.calendar  [error opening dir]
+│   │   ├── com.samsung.android.email.provider  [error opening dir]
+│   │   ├── com.samsung.android.forest  [error opening dir]
+│   │   ├── com.samsung.android.game.gamehome  [error opening dir]
+│   │   ├── com.samsung.android.incallui  [error opening dir]
+│   │   ├── com.samsung.android.knox.analytics.uploader  [error opening dir]
+│   │   ├── com.samsung.android.mapsagent  [error opening dir]
+│   │   ├── com.samsung.android.messaging  [error opening dir]
+│   │   ├── com.samsung.android.mfi  [error opening dir]
+│   │   ├── com.samsung.android.mobileservice  [error opening dir]
+│   │   ├── com.samsung.android.providers.contacts  [error opening dir]
+│   │   ├── com.samsung.android.rubin.app  [error opening dir]
+│   │   ├── com.samsung.android.samsungpass  [error opening dir]
+│   │   ├── com.samsung.android.smartmirroring  [error opening dir]
+│   │   ├── com.samsung.android.soundassistant  [error opening dir]
+│   │   ├── com.samsung.android.spay  [error opening dir]
+│   │   ├── com.samsung.android.spayfw  [error opening dir]
+│   │   ├── com.samsung.android.tadownloader  [error opening dir]
+│   │   ├── com.samsung.android.video  [error opening dir]
+│   │   ├── com.samsung.android.videolist  [error opening dir]
+│   │   ├── com.samsung.android.voc  [error opening dir]
+│   │   ├── com.samsung.ecomm.global.in  [error opening dir]
+│   │   ├── com.samsung.systemui.lockstar  [error opening dir]
+│   │   ├── com.sec.android.app.myfiles  [error opening dir]
+│   │   ├── com.sec.android.app.samsungapps  [error opening dir]
+│   │   ├── com.sec.android.app.sbrowser.beta  [error opening dir]
+│   │   ├── com.sec.android.app.shealth  [error opening dir]
+│   │   ├── com.sec.android.app.voicenote  [error opening dir]
+│   │   ├── com.sec.android.gallery3d  [error opening dir]
+│   │   ├── com.sec.android.mimage.photoretouching  [error opening dir]
+│   │   ├── com.sec.imsservice  [error opening dir]
+│   │   ├── com.seterra  [error opening dir]
+│   │   ├── com.sharpened.androidfileviewer  [error opening dir]
+│   │   ├── com.shazam.android  [error opening dir]
+│   │   ├── com.simplemobilephotoresizer  [error opening dir]
+│   │   ├── com.simyasolutions.writeme.universal  [error opening dir]
+│   │   ├── com.sirma.mobile.bible.android  [error opening dir]
+│   │   ├── com.snaptube.premium  [error opening dir]
+│   │   ├── com.snapwork.hdfc  [error opening dir]
+│   │   ├── com.sofascore.results  [error opening dir]
+│   │   ├── com.softinit.iquitos.whatsweb  [error opening dir]
+│   │   ├── com.spaceman.verticonspro  [error opening dir]
+│   │   ├── com.spotify.music  [error opening dir]
+│   │   ├── com.swific.registerbook  [error opening dir]
+│   │   ├── com.sylkat.apache  [error opening dir]
+│   │   ├── com.sync.mobileapp  [error opening dir]
+│   │   ├── com.teaxapp.hourcal  [error opening dir]
+│   │   ├── com.textra  [error opening dir]
+│   │   ├── com.thegateacademy.tgaonline  [error opening dir]
+│   │   ├── com.thinkpeak.quotescreator  [error opening dir]
+│   │   ├── com.thomsonreuters.reuters  [error opening dir]
+│   │   ├── com.ticktick.task  [error opening dir]
+│   │   ├── com.toi.reader.activities  [error opening dir]
+│   │   ├── com.tranzmate  [error opening dir]
+│   │   ├── com.truecaller  [error opening dir]
+│   │   ├── com.trustappz.vtunotes  [error opening dir]
+│   │   ├── com.unacademyapp  [error opening dir]
+│   │   ├── com.urbandictionary.android  [error opening dir]
+│   │   ├── com.vanity.iqbal  [error opening dir]
+│   │   ├── com.volumestories.flutterapp  [error opening dir]
+│   │   ├── com.whatsapp  [error opening dir]
+│   │   ├── com.xc3fff0e.xmanager  [error opening dir]
+│   │   ├── com.xodo.pdf.reader  [error opening dir]
+│   │   ├── dk.tacit.android.foldersync.lite  [error opening dir]
+│   │   ├── flipboard.app  [error opening dir]
+│   │   ├── idm.internet.download.manager.plus  [error opening dir]
+│   │   ├── in.gov.uidai.mAadhaarPlus  [error opening dir]
+│   │   ├── in.krosbits.musicolet  [error opening dir]
+│   │   ├── io.gitjournal.gitjournal  [error opening dir]
+│   │   ├── md.obsidian  [error opening dir]
+│   │   ├── me.bluemail.mail  [error opening dir]
+│   │   ├── mega.privacy.android.app  [error opening dir]
+│   │   ├── net.dinglisch.android.taskerm  [error opening dir]
+│   │   ├── net.koofr.app  [error opening dir]
+│   │   ├── net.myanimelist.app  [error opening dir]
+│   │   ├── net.one97.paytm  [error opening dir]
+│   │   ├── nextapp.fx  [error opening dir]
+│   │   ├── nl.jacobras.notes  [error opening dir]
+│   │   ├── org.Rekhta  [error opening dir]
+│   │   ├── org.kman.AquaMail  [error opening dir]
+│   │   ├── org.mozilla.fenix  [error opening dir]
+│   │   ├── org.plantnet  [error opening dir]
+│   │   ├── org.schabi.newpipe  [error opening dir]
+│   │   ├── org.telegram.messenger  [error opening dir]
+│   │   ├── org.thunderdog.challegram  [error opening dir]
+│   │   ├── org.videolan.vlc  [error opening dir]
+│   │   ├── photoeditor.layout.collagemaker  [error opening dir]
+│   │   ├── pl.solidexplorer2  [error opening dir]
+│   │   ├── ru.FuVdvRSs.uqcpNvrkY  [error opening dir]
+│   │   ├── ru.iiec.cxxdroid  [error opening dir]
+│   │   ├── ru.iiec.jvdroid  [error opening dir]
+│   │   ├── ru.iiec.pydroid3  [error opening dir]
+│   │   ├── widget.dd.com.overdrop.free  [error opening dir]
+│   │   └── xyz.romanello.SpotifyTools  [error opening dir]
+│   ├── media
+│   │   ├── com.ai.avatar
+│   │   ├── com.dailymotion.dailymotion
+│   │   ├── com.foxdebug.acode
+│   │   ├── com.idmgroup.fng.retro
+│   │   ├── com.nemo.vidmate
+│   │   ├── com.playit.videoplayer
+│   │   ├── com.rhmsoft.code
+│   │   ├── com.samsung.android.app.clockface
+│   │   ├── com.samsung.android.spay
+│   │   ├── com.sec.android.gallery3d
+│   │   ├── com.snaptube.premium
+│   │   ├── com.snapwork.hdfc
+│   │   ├── com.thinkpeak.quotescreator
+│   │   ├── com.whatsapp
+│   │   ├── dk.tacit.android.foldersync.lite
+│   │   └── org.telegram.messenger
+│   └── obb
+│       ├── cn.xender
+│       ├── com.OskarStalberg.Townscaper
+│       ├── com.digitalgene.familytree
+│       ├── com.dvloper.slendrinatheschool
+│       ├── com.hamsteroncoke.zenge
+│       ├── com.infinity.traffix
+│       ├── com.maple.periodictablequiz
+│       ├── com.mediocre.commute
+│       ├── com.noodlecake.altosadventure
+│       ├── com.noodlecake.altosodyssey
+│       ├── com.ovilex.bussimulator2015
+│       ├── com.pomelogames.TowerGame
+│       ├── com.samsung.accessibility
+│       ├── com.sec.android.app.kidshome
+│       └── com.sec.android.app.samsungapps
+├── DCIM
+│   ├── Camera
+│   │   ├── B
+│   │   │   └── XII Graduate
+│   │   ├── Nānu
+│   │   └── S
+│   │       ├── 2022
+│   │       ├── 2023
+│   │       ├── Octobre 2018
+│   │       └── Été '19
+│   │           ├── Animaux
+│   │           └── Shift
+│   ├── Photos
+│   ├── Screenshots
+│   └── Videos
+├── Documents
+│   ├── Appels
+│   ├── BMTC
+│   │   ├── BMTC 2-7
+│   │   ├── BMTC; 2021-2022
+│   │   ├── BMTC; 2022-2023
+│   │   └── BMTC; 2023-2024
+│   ├── BWSSB
+│   │   ├── Connection
+│   │   └── Consumption
+│   ├── Banks & Bills
+│   │   ├── AirTel
+│   │   ├── Axis
+│   │   ├── Connaissance HDFC
+│   │   └── HDFC Bank
+│   ├── Books
+│   │   ├── Non-fiction
+│   │   └── Novels
+│   ├── EWCE
+│   │   └── Others
+│   ├── Examines
+│   │   ├── Gate 2023
+│   │   │   └── Documents
+│   │   ├── JEE 2020
+│   │   │   ├── JEE 2021
+│   │   │   ├── Registration
+│   │   │   └── Spot
+│   │   ├── KCET 2020
+│   │   │   ├── Admission Process
+│   │   │   │   ├── Eligibility
+│   │   │   │   ├── Mock Allotment
+│   │   │   │   ├── Round 01
+│   │   │   │   ├── Round 02
+│   │   │   │   ├── Second Extended Round
+│   │   │   │   └── Second Extended Rounds
+│   │   │   ├── Documents Upload
+│   │   │   │   └── Uploads
+│   │   │   ├── Hall Ticket
+│   │   │   ├── Informations
+│   │   │   ├── KCET 2021
+│   │   │   └── Registration
+│   │   └── NEET 2021
+│   ├── License 🪪
+│   ├── Mom's Documents
+│   │   ├── CLT
+│   │   ├── COVID-19
+│   │   ├── EEDS Login
+│   │   ├── GPF
+│   │   ├── Income Tax 2022
+│   │   ├── KSTBF
+│   │   │   └── 2023; Year III
+│   │   ├── Nishtha 2.0
+│   │   │   └── September 2022
+│   │   ├── Pay Slips
+│   │   │   ├── 2020
+│   │   │   ├── 2021
+│   │   │   ├── 2022
+│   │   │   └── 2023
+│   │   ├── Question Papers
+│   │   │   ├── 2019
+│   │   │   ├── 2020
+│   │   │   ├── 2020 9th,10th
+│   │   │   ├── 2021
+│   │   │   ├── 2022
+│   │   │   │   ├── February
+│   │   │   │   └── September
+│   │   │   ├── 2023
+│   │   │   │   └── 2023March
+│   │   │   └── Second Semester
+│   │   └── Transfer Application
+│   │       └── 2023
+│   ├── Officials & Governmental
+│   ├── Others
+│   ├── Physics
+│   ├── Presentation; 26th July
+│   ├── Recharges
+│   └── Vaccination
+├── Images
+│   ├── IMGS
+│   ├── Images
+│   │   └── Mom's EPIC; Applied Documents
+│   ├── New Wallpapers
+│   │   └── Top
+│   ├── Others
+│   ├── Photographs
+│   │   └── ScreenShots
+│   ├── Quotations
+│   └── Wallpapers
+├── MesÉtudes
+│   ├── FutureStudies
+│   │   ├── P.hD Thesis 28-05-2021
+│   │   └── Reasearch
+│   ├── Informatique et Ingénierie
+│   │   ├── GATE
+│   │   │   ├── 2023
+│   │   │   │   ├── Information
+│   │   │   │   └── Preperation
+│   │   │   └── 2024
+│   │   ├── Master of Technology
+│   │   ├── Others
+│   │   │   ├── BE Syllabus
+│   │   │   │   └── 2022
+│   │   │   ├── Courses
+│   │   │   ├── Honors
+│   │   │   ├── Question Papers
+│   │   │   │   ├── 2022
+│   │   │   │   ├── Semester I
+│   │   │   │   │   ├── Engineering Physics
+│   │   │   │   │   └── Mathematics I
+│   │   │   │   ├── Semester II
+│   │   │   │   ├── Semester III
+│   │   │   │   ├── Semester IV
+│   │   │   │   ├── Semester V
+│   │   │   │   ├── Semester VI
+│   │   │   │   ├── Semester VII
+│   │   │   │   └── Semester VIII
+│   │   │   └── Results
+│   │   ├── Semester I
+│   │   │   ├── Basic Electrical Engineering
+│   │   │   │   ├── BEE Lab
+│   │   │   │   └── Notes
+│   │   │   ├── Calculus and Linear Algebra
+│   │   │   │   └── Notes
+│   │   │   ├── Elements of Civ. Engineering & Mechanics
+│   │   │   │   └── Notes
+│   │   │   ├── Engineering Graphics
+│   │   │   ├── Engineering Physics
+│   │   │   │   ├── Notes
+│   │   │   │   └── Physics Laboratory
+│   │   │   ├── Others
+│   │   │   ├── Question Papers
+│   │   │   └── Technical English 01
+│   │   ├── Semester II
+│   │   │   ├── Basic Electronics
+│   │   │   │   └── Notes
+│   │   │   ├── Computer Programming for Problem Solving with C
+│   │   │   │   └── Laboratory
+│   │   │   ├── Elements of Mechanical Engineering
+│   │   │   ├── Engineering Chemistry
+│   │   │   │   ├── Chemistry Laboratory
+│   │   │   │   └── Notes
+│   │   │   ├── Engineering Mathematics II
+│   │   │   ├── Others
+│   │   │   │   └── Exams & Tests
+│   │   │   │       └── IA01 Online
+│   │   │   │           ├── Answers
+│   │   │   │           └── Questions
+│   │   │   ├── Question Papers
+│   │   │   ├── Semester II Online Classes
+│   │   │   └── Technical English II
+│   │   ├── Semester III
+│   │   │   ├── Analog and Digital Electronics
+│   │   │   │   ├── AADE Laboratory
+│   │   │   │   └── Notes
+│   │   │   ├── CPC
+│   │   │   ├── Computer Organization
+│   │   │   │   └── Notes
+│   │   │   ├── Data Structures and Applications
+│   │   │   │   ├── DSC Laboratory
+│   │   │   │   │   └── Programs
+│   │   │   │   └── Notes
+│   │   │   ├── Discrete Mathematical Structures
+│   │   │   │   └── Notes
+│   │   │   ├── Others
+│   │   │   │   ├── Pitahon SDP
+│   │   │   │   ├── TGOE
+│   │   │   │   │   └── Présentation
+│   │   │   │   └── Time Tables
+│   │   │   ├── Question Papers
+│   │   │   ├── Software Engineering
+│   │   │   │   └── Notes
+│   │   │   ├── TC, FS & NT
+│   │   │   │   └── Noties
+│   │   │   └── Unclassified
+│   │   ├── Semester IV
+│   │   │   ├── Books
+│   │   │   ├── CA, Probabaility & SM
+│   │   │   │   └── Notes
+│   │   │   ├── Data Communication
+│   │   │   │   └── Notes
+│   │   │   │       └── Prep
+│   │   │   ├── Design and Analysis of Algorithms
+│   │   │   │   ├── Laboratoire
+│   │   │   │   └── Notes
+│   │   │   ├── Microcontrollers and Embedded Systems
+│   │   │   │   ├── Laboratoire
+│   │   │   │   └── Notes
+│   │   │   ├── Object Oriented Concepts
+│   │   │   │   └── Notes
+│   │   │   ├── Operating Systems
+│   │   │   │   └── Notes
+│   │   │   ├── Others
+│   │   │   │   ├── Exams
+│   │   │   │   └── IoT May2022
+│   │   │   ├── Question Papers
+│   │   │   └── ಆಡಳಿತ ಕನ್ನಡ
+│   │   ├── Semester V
+│   │   │   ├── AT & C
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Computer Networks
+│   │   │   │   ├── Laboratory
+│   │   │   │   │   └── NS
+│   │   │   │   └── Notes
+│   │   │   │       └── Final
+│   │   │   ├── Databases
+│   │   │   │   ├── Laboratoire
+│   │   │   │   ├── MiniProject
+│   │   │   │   │   ├── Report
+│   │   │   │   │   └── School MGMT
+│   │   │   │   │       └── schoolmanagement
+│   │   │   │   │           ├── bower_components
+│   │   │   │   │           │   ├── bootstrap
+│   │   │   │   │           │   │   ├── dist
+│   │   │   │   │           │   │   │   ├── css
+│   │   │   │   │           │   │   │   ├── fonts
+│   │   │   │   │           │   │   │   └── js
+│   │   │   │   │           │   │   ├── fonts
+│   │   │   │   │           │   │   ├── grunt
+│   │   │   │   │           │   │   ├── js
+│   │   │   │   │           │   │   ├── less
+│   │   │   │   │           │   │   │   └── mixins
+│   │   │   │   │           │   │   └── nuget
+│   │   │   │   │           │   ├── bootstrap-social
+│   │   │   │   │           │   ├── datatables
+│   │   │   │   │           │   │   └── media
+│   │   │   │   │           │   │       ├── css
+│   │   │   │   │           │   │       ├── images
+│   │   │   │   │           │   │       └── js
+│   │   │   │   │           │   ├── datatables-plugins
+│   │   │   │   │           │   │   ├── api
+│   │   │   │   │           │   │   ├── features
+│   │   │   │   │           │   │   │   ├── alphabetSearch
+│   │   │   │   │           │   │   │   ├── lengthLinks
+│   │   │   │   │           │   │   │   └── searchHighlight
+│   │   │   │   │           │   │   ├── filtering
+│   │   │   │   │           │   │   │   ├── row-based
+│   │   │   │   │           │   │   │   └── type-based
+│   │   │   │   │           │   │   ├── i18n
+│   │   │   │   │           │   │   ├── integration
+│   │   │   │   │           │   │   │   ├── bootstrap
+│   │   │   │   │           │   │   │   │   ├── 1
+│   │   │   │   │           │   │   │   │   ├── 2
+│   │   │   │   │           │   │   │   │   ├── 3
+│   │   │   │   │           │   │   │   │   └── images
+│   │   │   │   │           │   │   │   ├── font-awesome
+│   │   │   │   │           │   │   │   ├── foundation
+│   │   │   │   │           │   │   │   │   └── images
+│   │   │   │   │           │   │   │   └── jqueryui
+│   │   │   │   │           │   │   ├── pagination
+│   │   │   │   │           │   │   │   └── jPaginator
+│   │   │   │   │           │   │   ├── sorting
+│   │   │   │   │           │   │   │   └── custom-data-source
+│   │   │   │   │           │   │   └── type-detection
+│   │   │   │   │           │   ├── datatables-responsive
+│   │   │   │   │           │   │   ├── css
+│   │   │   │   │           │   │   ├── docs
+│   │   │   │   │           │   │   │   ├── api
+│   │   │   │   │           │   │   │   └── option
+│   │   │   │   │           │   │   ├── examples
+│   │   │   │   │           │   │   │   ├── child-rows
+│   │   │   │   │           │   │   │   ├── display-control
+│   │   │   │   │           │   │   │   ├── initialisation
+│   │   │   │   │           │   │   │   └── styling
+│   │   │   │   │           │   │   └── js
+│   │   │   │   │           │   ├── flot
+│   │   │   │   │           │   │   └── examples
+│   │   │   │   │           │   │       ├── ajax
+│   │   │   │   │           │   │       ├── annotating
+│   │   │   │   │           │   │       ├── axes-interacting
+│   │   │   │   │           │   │       ├── axes-multiple
+│   │   │   │   │           │   │       ├── axes-time
+│   │   │   │   │           │   │       ├── axes-time-zones
+│   │   │   │   │           │   │       │   └── tz
+│   │   │   │   │           │   │       ├── basic-options
+│   │   │   │   │           │   │       ├── basic-usage
+│   │   │   │   │           │   │       ├── canvas
+│   │   │   │   │           │   │       ├── categories
+│   │   │   │   │           │   │       ├── image
+│   │   │   │   │           │   │       ├── interacting
+│   │   │   │   │           │   │       ├── navigate
+│   │   │   │   │           │   │       ├── percentiles
+│   │   │   │   │           │   │       ├── realtime
+│   │   │   │   │           │   │       ├── resize
+│   │   │   │   │           │   │       ├── selection
+│   │   │   │   │           │   │       ├── series-errorbars
+│   │   │   │   │           │   │       ├── series-pie
+│   │   │   │   │           │   │       ├── series-toggle
+│   │   │   │   │           │   │       ├── series-types
+│   │   │   │   │           │   │       ├── shared
+│   │   │   │   │           │   │       │   └── jquery-ui
+│   │   │   │   │           │   │       ├── stacking
+│   │   │   │   │           │   │       ├── symbols
+│   │   │   │   │           │   │       ├── threshold
+│   │   │   │   │           │   │       ├── tracking
+│   │   │   │   │           │   │       ├── visitors
+│   │   │   │   │           │   │       └── zooming
+│   │   │   │   │           │   ├── flot.tooltip
+│   │   │   │   │           │   │   └── js
+│   │   │   │   │           │   ├── font-awesome
+│   │   │   │   │           │   │   ├── css
+│   │   │   │   │           │   │   ├── fonts
+│   │   │   │   │           │   │   ├── less
+│   │   │   │   │           │   │   └── scss
+│   │   │   │   │           │   ├── holderjs
+│   │   │   │   │           │   │   ├── src
+│   │   │   │   │           │   │   └── test
+│   │   │   │   │           │   ├── jquery
+│   │   │   │   │           │   │   ├── dist
+│   │   │   │   │           │   │   └── src
+│   │   │   │   │           │   │       ├── ajax
+│   │   │   │   │           │   │       │   └── var
+│   │   │   │   │           │   │       ├── attributes
+│   │   │   │   │           │   │       ├── core
+│   │   │   │   │           │   │       │   └── var
+│   │   │   │   │           │   │       ├── css
+│   │   │   │   │           │   │       │   └── var
+│   │   │   │   │           │   │       ├── data
+│   │   │   │   │           │   │       │   └── var
+│   │   │   │   │           │   │       ├── effects
+│   │   │   │   │           │   │       ├── event
+│   │   │   │   │           │   │       ├── exports
+│   │   │   │   │           │   │       ├── manipulation
+│   │   │   │   │           │   │       │   └── var
+│   │   │   │   │           │   │       ├── queue
+│   │   │   │   │           │   │       ├── sizzle
+│   │   │   │   │           │   │       │   └── dist
+│   │   │   │   │           │   │       ├── traversing
+│   │   │   │   │           │   │       │   └── var
+│   │   │   │   │           │   │       └── var
+│   │   │   │   │           │   ├── metisMenu
+│   │   │   │   │           │   │   ├── dist
+│   │   │   │   │           │   │   └── src
+│   │   │   │   │           │   ├── mocha
+│   │   │   │   │           │   │   └── media
+│   │   │   │   │           │   ├── morrisjs
+│   │   │   │   │           │   │   ├── examples
+│   │   │   │   │           │   │   │   └── lib
+│   │   │   │   │           │   │   ├── less
+│   │   │   │   │           │   │   ├── lib
+│   │   │   │   │           │   │   └── spec
+│   │   │   │   │           │   │       ├── lib
+│   │   │   │   │           │   │       │   ├── area
+│   │   │   │   │           │   │       │   ├── bar
+│   │   │   │   │           │   │       │   ├── donut
+│   │   │   │   │           │   │       │   ├── grid
+│   │   │   │   │           │   │       │   └── line
+│   │   │   │   │           │   │       ├── support
+│   │   │   │   │           │   │       └── viz
+│   │   │   │   │           │   │           └── exemplary
+│   │   │   │   │           │   └── raphael
+│   │   │   │   │           │       └── dev
+│   │   │   │   │           ├── config
+│   │   │   │   │           ├── dist
+│   │   │   │   │           │   ├── css
+│   │   │   │   │           │   └── js
+│   │   │   │   │           ├── js
+│   │   │   │   │           └── pages
+│   │   │   │   ├── Notes
+│   │   │   │   ├── SQLW
+│   │   │   │   └── Tutorials
+│   │   │   │       └── learn-html
+│   │   │   ├── Environmental Studies
+│   │   │   ├── Livres
+│   │   │   ├── Mng&Ent for IT
+│   │   │   │   ├── Final
+│   │   │   │   └── Notes
+│   │   │   ├── Others
+│   │   │   │   └── Details
+│   │   │   ├── Pitahon ApplDev
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Question Papers
+│   │   │   └── Yooniks
+│   │   │       └── Notes
+│   │   ├── Semester VI
+│   │   │   ├── Assets
+│   │   │   │   ├── Grandes
+│   │   │   │   ├── IAs
+│   │   │   │   ├── Internship
+│   │   │   │   │   ├── MLDS
+│   │   │   │   │   │   └── Meta
+│   │   │   │   │   └── SPJ
+│   │   │   │   │       └── Meta
+│   │   │   │   ├── Question Papers
+│   │   │   │   ├── SpokenTutorial
+│   │   │   │   └── Workshop
+│   │   │   │       ├── datasets
+│   │   │   │       └── iris_project
+│   │   │   │           └── report
+│   │   │   ├── DMDW
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Infographie
+│   │   │   │   ├── Assignments
+│   │   │   │   ├── Examines Internaux
+│   │   │   │   ├── Laboratoire
+│   │   │   │   │   ├── Mini Projet
+│   │   │   │   │   │   ├── Report
+│   │   │   │   │   │   │   ├── Final
+│   │   │   │   │   │   │   ├── assets
+│   │   │   │   │   │   │   └── sub
+│   │   │   │   │   │   └── assets
+│   │   │   │   │   ├── cglut
+│   │   │   │   │   │   ├── bin
+│   │   │   │   │   │   │   └── Debug
+│   │   │   │   │   │   └── obj
+│   │   │   │   │   │       └── Debug
+│   │   │   │   │   └── shbm
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Internship
+│   │   │   ├── L'ingénierie du trafic
+│   │   │   │   └── Notes
+│   │   │   ├── MobAppDev
+│   │   │   │   └── Mini Project
+│   │   │   │       └── report
+│   │   │   ├── NPTELHNS
+│   │   │   ├── SS&CD
+│   │   │   │   ├── Assignments
+│   │   │   │   ├── Internal Exams
+│   │   │   │   ├── Laboratoire
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   └── WtApp
+│   │   │       ├── Laboratoire
+│   │   │       │   ├── calc
+│   │   │       │   ├── data
+│   │   │       │   ├── mtrl_calc
+│   │   │       │   ├── output
+│   │   │       │   └── styles
+│   │   │       └── Notes
+│   │   ├── Semester VII
+│   │   │   ├── ACA
+│   │   │   │   ├── Assignments
+│   │   │   │   ├── Examines Internaux
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── AIML
+│   │   │   │   ├── Assignments
+│   │   │   │   ├── Examines Internaux
+│   │   │   │   ├── Laboratoire
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Assets
+│   │   │   │   ├── Question Papers
+│   │   │   │   └── Syllabus
+│   │   │   ├── BDA
+│   │   │   │   ├── Assignments
+│   │   │   │   ├── Examines Internaux
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Cryptographie
+│   │   │   │   ├── Assignments
+│   │   │   │   ├── Examines Internaux
+│   │   │   │   ├── Notes
+│   │   │   │   └── Study
+│   │   │   ├── Design Patterns
+│   │   │   └── OE
+│   │   │       ├── Assignments
+│   │   │       ├── Examines Internaux
+│   │   │       ├── Notes
+│   │   │       └── Study
+│   │   └── Semester VIII
+│   │       ├── Assets
+│   │       ├── Internet of Things
+│   │       │   └── Notes
+│   │       └── SAN
+│   │           └── Notes
+│   ├── MeesÉtudes
+│   │   ├── Autres Choses
+│   │   ├── Chimie
+│   │   ├── ElectronoMechanics
+│   │   │   ├── Arduino
+│   │   │   ├── SimplyElectronics
+│   │   │   └── SparkFun Electronics
+│   │   ├── Histoire et Géographie
+│   │   ├── Islām
+│   │   │   ├── Abdel Basit Abdus Samad
+│   │   │   ├── Abdullah Humeid
+│   │   │   ├── Dr. Israr Ahmed; Volume I
+│   │   │   ├── Dr. Israr Ahmed; Volume II
+│   │   │   ├── Fundamentals
+│   │   │   │   └── l-Kalimah as-sitt
+│   │   │   ├── Librairie
+│   │   │   │   ├── Audio
+│   │   │   │   └── Video
+│   │   │   ├── Mishary Rashid Alafasy
+│   │   │   │   └── Al Qur'ān
+│   │   │   ├── Omar Hisham al-Arabi
+│   │   │   └── Studying The Qur'ān and The Ahadīth
+│   │   ├── L'informatique
+│   │   │   ├── Archives & Sources
+│   │   │   │   └── Applications
+│   │   │   │       └── active
+│   │   │   ├── Librairie
+│   │   │   │   ├── AUTR
+│   │   │   │   ├── Infographie
+│   │   │   │   ├── Livres
+│   │   │   │   │   ├── AIML
+│   │   │   │   │   ├── Head First
+│   │   │   │   │   └── Rust
+│   │   │   │   ├── Ruby
+│   │   │   │   │   └── ruby-master
+│   │   │   │   │       ├── ccan
+│   │   │   │   │       │   ├── build_assert
+│   │   │   │   │       │   ├── check_type
+│   │   │   │   │       │   ├── container_of
+│   │   │   │   │       │   ├── licenses
+│   │   │   │   │       │   ├── list
+│   │   │   │   │       │   └── str
+│   │   │   │   │       └── test
+│   │   │   │   │           ├── net
+│   │   │   │   │           └── yaml
+│   │   │   │   ├── Références et Cheatsheets
+│   │   │   │   │   └── Python
+│   │   │   │   ├── Systems
+│   │   │   │   └── Tutorials
+│   │   │   └── unDev
+│   │   │       ├── Embedded and Hardware
+│   │   │       │   ├── Paul McWhorter
+│   │   │       │   └── ProgrammingKnowledge
+│   │   │       ├── Mobile (DroidiOS)
+│   │   │       │   ├── Android Learning
+│   │   │       │   ├── Projects
+│   │   │       │   │   └── StMgmt
+│   │   │       │   │       └── AndroidStudentMgt
+│   │   │       │   │           ├── app
+│   │   │       │   │           │   ├── build
+│   │   │       │   │           │   │   ├── generated
+│   │   │       │   │           │   │   │   ├── res
+│   │   │       │   │           │   │   │   │   ├── resValues
+│   │   │       │   │           │   │   │   │   │   └── androidTest
+│   │   │       │   │           │   │   │   │   └── rs
+│   │   │       │   │           │   │   │   │       ├── androidTest
+│   │   │       │   │           │   │   │   │       │   └── debug
+│   │   │       │   │           │   │   │   │       └── debug
+│   │   │       │   │           │   │   │   └── source
+│   │   │       │   │           │   │   │       ├── aidl
+│   │   │       │   │           │   │   │       │   ├── androidTest
+│   │   │       │   │           │   │   │       │   │   └── debug
+│   │   │       │   │           │   │   │       │   └── debug
+│   │   │       │   │           │   │   │       ├── buildConfig
+│   │   │       │   │           │   │   │       │   ├── androidTest
+│   │   │       │   │           │   │   │       │   │   └── debug
+│   │   │       │   │           │   │   │       │   │       └── com
+│   │   │       │   │           │   │   │       │   │           └── delaroystudios
+│   │   │       │   │           │   │   │       │   │               └── studentmgt
+│   │   │       │   │           │   │   │       │   │                   └── test
+│   │   │       │   │           │   │   │       │   └── debug
+│   │   │       │   │           │   │   │       │       └── com
+│   │   │       │   │           │   │   │       │           └── delaroystudios
+│   │   │       │   │           │   │   │       │               └── studentmgt
+│   │   │       │   │           │   │   │       ├── r
+│   │   │       │   │           │   │   │       │   ├── androidTest
+│   │   │       │   │           │   │   │       │   │   └── debug
+│   │   │       │   │           │   │   │       │   └── debug
+│   │   │       │   │           │   │   │       │       └── com
+│   │   │       │   │           │   │   │       │           └── delaroystudios
+│   │   │       │   │           │   │   │       │               └── studentmgt
+│   │   │       │   │           │   │   │       └── rs
+│   │   │       │   │           │   │   │           ├── androidTest
+│   │   │       │   │           │   │   │           │   └── debug
+│   │   │       │   │           │   │   │           └── debug
+│   │   │       │   │           │   │   ├── intermediates
+│   │   │       │   │           │   │   │   ├── assets
+│   │   │       │   │           │   │   │   │   ├── androidTest
+│   │   │       │   │           │   │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   ├── blame
+│   │   │       │   │           │   │   │   │   └── res
+│   │   │       │   │           │   │   │   │       ├── androidTest
+│   │   │       │   │           │   │   │   │       │   └── debug
+│   │   │       │   │           │   │   │   │       └── debug
+│   │   │       │   │           │   │   │   │           ├── multi
+│   │   │       │   │           │   │   │   │           └── single
+│   │   │       │   │           │   │   │   ├── classes
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   │       └── com
+│   │   │       │   │           │   │   │   │           └── delaroystudios
+│   │   │       │   │           │   │   │   │               └── studentmgt
+│   │   │       │   │           │   │   │   ├── dependency-cache
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   ├── incremental
+│   │   │       │   │           │   │   │   │   ├── compileDebugAidl
+│   │   │       │   │           │   │   │   │   ├── compileDebugAndroidTestAidl
+│   │   │       │   │           │   │   │   │   ├── mergeDebugAndroidTestAssets
+│   │   │       │   │           │   │   │   │   ├── mergeDebugAndroidTestResources
+│   │   │       │   │           │   │   │   │   ├── mergeDebugAssets
+│   │   │       │   │           │   │   │   │   ├── mergeDebugJniLibFolders
+│   │   │       │   │           │   │   │   │   └── mergeDebugResources
+│   │   │       │   │           │   │   │   ├── jniLibs
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   ├── manifest
+│   │   │       │   │           │   │   │   │   ├── androidTest
+│   │   │       │   │           │   │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   │   └── tmp
+│   │   │       │   │           │   │   │   ├── manifests
+│   │   │       │   │           │   │   │   │   └── full
+│   │   │       │   │           │   │   │   │       └── debug
+│   │   │       │   │           │   │   │   ├── pre-dexed
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   ├── res
+│   │   │       │   │           │   │   │   │   └── merged
+│   │   │       │   │           │   │   │   │       ├── androidTest
+│   │   │       │   │           │   │   │   │       │   └── debug
+│   │   │       │   │           │   │   │   │       └── debug
+│   │   │       │   │           │   │   │   │           ├── drawable-hdpi-v4
+│   │   │       │   │           │   │   │   │           ├── drawable-mdpi-v4
+│   │   │       │   │           │   │   │   │           ├── drawable-xhdpi-v4
+│   │   │       │   │           │   │   │   │           ├── drawable-xxhdpi-v4
+│   │   │       │   │           │   │   │   │           ├── layout
+│   │   │       │   │           │   │   │   │           ├── menu
+│   │   │       │   │           │   │   │   │           ├── values
+│   │   │       │   │           │   │   │   │           ├── values-sw720dp-land-v13
+│   │   │       │   │           │   │   │   │           ├── values-v11
+│   │   │       │   │           │   │   │   │           └── values-v14
+│   │   │       │   │           │   │   │   ├── rs
+│   │   │       │   │           │   │   │   │   ├── androidTest
+│   │   │       │   │           │   │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   │   │       ├── lib
+│   │   │       │   │           │   │   │   │   │       └── obj
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   │       ├── lib
+│   │   │       │   │           │   │   │   │       └── obj
+│   │   │       │   │           │   │   │   ├── symbols
+│   │   │       │   │           │   │   │   │   ├── androidTest
+│   │   │       │   │           │   │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   │   └── debug
+│   │   │       │   │           │   │   │   └── transforms
+│   │   │       │   │           │   │   │       ├── dex
+│   │   │       │   │           │   │   │       │   └── debug
+│   │   │       │   │           │   │   │       │       └── folders
+│   │   │       │   │           │   │   │       │           └── 1000
+│   │   │       │   │           │   │   │       │               └── 1f
+│   │   │       │   │           │   │   │       │                   └── main
+│   │   │       │   │           │   │   │       ├── mergeJavaRes
+│   │   │       │   │           │   │   │       │   └── debug
+│   │   │       │   │           │   │   │       └── mergeJniLibs
+│   │   │       │   │           │   │   │           └── debug
+│   │   │       │   │           │   │   ├── outputs
+│   │   │       │   │           │   │   │   ├── apk
+│   │   │       │   │           │   │   │   └── logs
+│   │   │       │   │           │   │   └── tmp
+│   │   │       │   │           │   │       └── compileDebugJavaWithJavac
+│   │   │       │   │           │   │           └── emptySourcePathRef
+│   │   │       │   │           │   └── src
+│   │   │       │   │           │       └── main
+│   │   │       │   │           │           ├── java
+│   │   │       │   │           │           │   └── com
+│   │   │       │   │           │           │       └── delaroystudios
+│   │   │       │   │           │           │           └── studentmgt
+│   │   │       │   │           │           └── res
+│   │   │       │   │           │               ├── drawable-hdpi
+│   │   │       │   │           │               ├── drawable-mdpi
+│   │   │       │   │           │               ├── drawable-xhdpi
+│   │   │       │   │           │               ├── drawable-xxhdpi
+│   │   │       │   │           │               ├── layout
+│   │   │       │   │           │               ├── menu
+│   │   │       │   │           │               ├── values
+│   │   │       │   │           │               ├── values-sw600dp
+│   │   │       │   │           │               ├── values-sw720dp-land
+│   │   │       │   │           │               ├── values-v11
+│   │   │       │   │           │               └── values-v14
+│   │   │       │   │           ├── build
+│   │   │       │   │           │   ├── generated
+│   │   │       │   │           │   └── intermediates
+│   │   │       │   │           │       └── dex-cache
+│   │   │       │   │           └── gradle
+│   │   │       │   │               └── wrapper
+│   │   │       │   └── thenewboston
+│   │   │       └── Web
+│   │   │           ├── Projects
+│   │   │           │   ├── Atlantique
+│   │   │           │   ├── CDNs and Resources
+│   │   │           │   │   ├── Foundation 6.6.3
+│   │   │           │   │   │   ├── css
+│   │   │           │   │   │   └── js
+│   │   │           │   │   │       └── vendor
+│   │   │           │   │   └── jQuery UI 1.12.1
+│   │   │           │   │       ├── external
+│   │   │           │   │       │   └── jquery
+│   │   │           │   │       └── images
+│   │   │           │   ├── CMS in PHP
+│   │   │           │   ├── CMS in an Afternoon
+│   │   │           │   │   ├── classes
+│   │   │           │   │   ├── images
+│   │   │           │   │   └── templates
+│   │   │           │   │       ├── admin
+│   │   │           │   │       └── include
+│   │   │           │   ├── CampusGlobus
+│   │   │           │   │   ├── CampusGlobus
+│   │   │           │   │   │   ├── Tries
+│   │   │           │   │   │   ├── assets
+│   │   │           │   │   │   │   ├── css
+│   │   │           │   │   │   │   ├── fonts
+│   │   │           │   │   │   │   ├── images
+│   │   │           │   │   │   │   └── js
+│   │   │           │   │   │   ├── tiny-slider-master
+│   │   │           │   │   │   │   ├── demo
+│   │   │           │   │   │   │   │   ├── css
+│   │   │           │   │   │   │   │   ├── images
+│   │   │           │   │   │   │   │   └── js
+│   │   │           │   │   │   │   ├── dist
+│   │   │           │   │   │   │   │   ├── min
+│   │   │           │   │   │   │   │   └── sourcemaps
+│   │   │           │   │   │   │   ├── logos
+│   │   │           │   │   │   │   ├── src
+│   │   │           │   │   │   │   │   ├── helpers
+│   │   │           │   │   │   │   │   └── ie8
+│   │   │           │   │   │   │   ├── template
+│   │   │           │   │   │   │   │   ├── demo
+│   │   │           │   │   │   │   │   └── test
+│   │   │           │   │   │   │   │       └── parts
+│   │   │           │   │   │   │   └── test
+│   │   │           │   │   │   │       ├── css
+│   │   │           │   │   │   │       ├── images
+│   │   │           │   │   │   │       ├── js
+│   │   │           │   │   │   │       │   └── babel-polyfill
+│   │   │           │   │   │   │       │       └── dist
+│   │   │           │   │   │   │       ├── parts
+│   │   │           │   │   │   │       ├── screenshot
+│   │   │           │   │   │   │       │   ├── chrome
+│   │   │           │   │   │   │       │   ├── edge
+│   │   │           │   │   │   │       │   ├── firefox
+│   │   │           │   │   │   │       │   ├── ie
+│   │   │           │   │   │   │       │   ├── opera
+│   │   │           │   │   │   │       │   └── safari
+│   │   │           │   │   │   │       └── scripts
+│   │   │           │   │   │   └── vendor
+│   │   │           │   │   │       ├── bootstrap
+│   │   │           │   │   │       │   ├── css
+│   │   │           │   │   │       │   └── js
+│   │   │           │   │   │       └── jquery
+│   │   │           │   │   ├── Zay Shop BS05
+│   │   │           │   │   │   └── assets
+│   │   │           │   │   │       ├── css
+│   │   │           │   │   │       ├── img
+│   │   │           │   │   │       ├── js
+│   │   │           │   │   │       └── webfonts
+│   │   │           │   │   └── Zay Shop BS05 (1)
+│   │   │           │   │       └── templatemo_559_zay_shop
+│   │   │           │   │           └── assets
+│   │   │           │   │               ├── css
+│   │   │           │   │               ├── img
+│   │   │           │   │               ├── js
+│   │   │           │   │               └── webfonts
+│   │   │           │   ├── Indigo
+│   │   │           │   │   └── website-menu-07
+│   │   │           │   │       ├── css
+│   │   │           │   │       │   └── bootstrap
+│   │   │           │   │       │       ├── mixins
+│   │   │           │   │       │       └── utilities
+│   │   │           │   │       ├── fonts
+│   │   │           │   │       │   └── icomoon
+│   │   │           │   │       │       ├── demo-files
+│   │   │           │   │       │       └── fonts
+│   │   │           │   │       ├── images
+│   │   │           │   │       ├── js
+│   │   │           │   │       └── scss
+│   │   │           │   │           └── bootstrap
+│   │   │           │   │               ├── mixins
+│   │   │           │   │               ├── utilities
+│   │   │           │   │               └── vendor
+│   │   │           │   ├── KOO App
+│   │   │           │   │   └── Photos
+│   │   │           │   ├── PHP file upload
+│   │   │           │   ├── PeopleGlobus like LinkedIn
+│   │   │           │   │   ├── css
+│   │   │           │   │   ├── img
+│   │   │           │   │   └── js
+│   │   │           │   └── bs3_examples
+│   │   │           │       ├── blog
+│   │   │           │       ├── carousel
+│   │   │           │       ├── cover
+│   │   │           │       ├── dashboard
+│   │   │           │       ├── grid
+│   │   │           │       ├── jumbotron
+│   │   │           │       ├── jumbotron-narrow
+│   │   │           │       ├── justified-nav
+│   │   │           │       ├── navbar
+│   │   │           │       ├── navbar-fixed-top
+│   │   │           │       ├── navbar-static-top
+│   │   │           │       ├── non-responsive
+│   │   │           │       ├── offcanvas
+│   │   │           │       ├── screenshots
+│   │   │           │       ├── signin
+│   │   │           │       ├── starter-template
+│   │   │           │       ├── sticky-footer
+│   │   │           │       ├── sticky-footer-navbar
+│   │   │           │       ├── theme
+│   │   │           │       └── tooltip-viewport
+│   │   │           └── Tutorials
+│   │   │               ├── Bootstrap 4; The Net Ninja
+│   │   │               ├── Derek Banas
+│   │   │               │   ├── In One Video
+│   │   │               │   └── Web Designing
+│   │   │               ├── ECMAScript6
+│   │   │               │   ├── 10 Days of JavaScript
+│   │   │               │   └── AsyncJS&XML
+│   │   │               │       └── Dani Krossing
+│   │   │               ├── Others
+│   │   │               ├── PHP
+│   │   │               │   ├── Codecourse
+│   │   │               │   │   ├── CMS
+│   │   │               │   │   │   └── CodeCourse
+│   │   │               │   │   ├── Learn PHP
+│   │   │               │   │   │   └── Files
+│   │   │               │   │   ├── PHP Basics; Codecourse
+│   │   │               │   │   ├── PHP MySQL PHP Data Objects (PDOs); CodeCourse
+│   │   │               │   │   └── PHP MySQLi; CodeCourse
+│   │   │               │   └── Webslesson
+│   │   │               │       ├── Like System
+│   │   │               │       └── Social Network
+│   │   │               └── Web Scraping
+│   │   │                   ├── Using Java
+│   │   │                   │   └── John Madsen
+│   │   │                   └── Using Pitahon
+│   │   ├── Les Arts
+│   │   │   └── Poetry
+│   │   │       ├── Spoken
+│   │   │       └── Sylvia Plath
+│   │   ├── Les Droits et des Ordres
+│   │   ├── Linguistique et Littérature
+│   │   │   ├── An Ghaeilge
+│   │   │   │   ├── Foclóir Content
+│   │   │   │   └── Lebor Gabala Érenn; Index
+│   │   │   ├── Books
+│   │   │   ├── Deutsche
+│   │   │   ├── Dravidian
+│   │   │   │   └── ಕನ್ನಡ
+│   │   │   ├── Español
+│   │   │   ├── Français
+│   │   │   │   ├── French Self Taught
+│   │   │   │   ├── FrenchPod101; Lya
+│   │   │   │   │   └── Top Words
+│   │   │   │   └── Learn French with Michel Thomas
+│   │   │   │       ├── French - Disc 1
+│   │   │   │       ├── French - Disc 2
+│   │   │   │       ├── French - Disc 3
+│   │   │   │       ├── French - Disc 4
+│   │   │   │       ├── French - Disc 5
+│   │   │   │       ├── French - Disc 6
+│   │   │   │       ├── French - Disc 7
+│   │   │   │       ├── French - Disc 8
+│   │   │   │       └── Vocabulaire Français Debutant; 3 CDs
+│   │   │   │           ├── French - CD 1
+│   │   │   │           ├── French - CD 2
+│   │   │   │           └── French - CD 3
+│   │   │   ├── Georgian
+│   │   │   ├── Ivrit
+│   │   │   ├── Language Families
+│   │   │   ├── Languages
+│   │   │   ├── Latin
+│   │   │   ├── Samskrit
+│   │   │   ├── Türkçe
+│   │   │   ├── Unclassified
+│   │   │   ├── Русский
+│   │   │   │   └── RussianPod101
+│   │   │   ├── اردو
+│   │   │   ├── عربى
+│   │   │   │   ├── Read Al-Qur'ān
+│   │   │   │   └── بی بی سی؛ انا شاھد
+│   │   │   ├── فارسی
+│   │   │   ├── संस्कृत
+│   │   │   ├── 中文
+│   │   │   └── 日本人
+│   │   │       └── NihonGoal
+│   │   ├── Math
+│   │   │   ├── Library
+│   │   │   ├── Study With Me; Tibees
+│   │   │   └── The Joy of Mathematics; Tibees
+│   │   ├── Medicine
+│   │   │   └── Medicine Made Ridiculously Simple
+│   │   ├── Physics
+│   │   │   ├── Library
+│   │   │   ├── Others
+│   │   │   │   ├── IPhO
+│   │   │   │   └── Walter Lewin
+│   │   │   ├── Quantum Mechanics
+│   │   │   └── Videos
+│   │   ├── Religions and Theology
+│   │   │   ├── Buddhism
+│   │   │   ├── Christianity
+│   │   │   ├── Confucianism
+│   │   │   ├── Hinduism
+│   │   │   │   └── स्त्रोत
+│   │   │   ├── Islām
+│   │   │   ├── Jainism
+│   │   │   ├── Judaism
+│   │   │   │   └── Torah • Tanakh
+│   │   │   ├── Mormonism
+│   │   │   ├── Paganism
+│   │   │   │   └── Wicca
+│   │   │   ├── The Books
+│   │   │   └── Zoroastrianism
+│   │   ├── Shorthand
+│   │   │   └── Pitman Shorthand
+│   │   ├── Social Sciences
+│   │   │   ├── Business
+│   │   │   └── Journalism and Mass Communication
+│   │   └── Ψφ
+│   └── PastStudies
+│       ├── College
+│       ├── PUC; FirstYear
+│       │   ├── Chemistry
+│       │   ├── ComputerScience
+│       │   ├── English
+│       │   ├── Hindi
+│       │   ├── Math
+│       │   └── Physics
+│       ├── PUC; Second Year
+│       │   ├── Audio Recordings
+│       │   └── Documents
+│       ├── Question Papers
+│       └── SSLC
+├── Movies
+├── Music
+├── Musique
+│   ├── Classical
+│   ├── Learn Music
+│   └── Songs
+│       ├── Bollywood
+│       │   └── Madan Mohan
+│       └── O
+├── NouNonTriéTéléchargements
+│   ├── Archives
+│   │   └── FLS Producer v20.5.0.1142
+│   ├── Documents
+│   ├── Images
+│   ├── Others
+│   │   └── Notes
+│   └── aTrier
+├── Pictures
+├── Recordings
+│   └── Voice Recorder
+├── Système
+│   ├── Backups
+│   │   ├── Notes
+│   │   │   ├── Samsung
+│   │   │   └── Samsung 02
+│   │   ├── SmsContactsBackup
+│   │   ├── apks
+│   │   ├── calendars
+│   │   ├── contacts
+│   │   ├── logs
+│   │   └── sms
+│   ├── Files
+│   ├── Lenovo E480
+│   ├── Notification Sounds
+│   ├── Ringtones
+│   └── Voice Recorder
+├── Verite
+│   ├── Abbu's Folder
+│   │   ├── Archives & Sources
+│   │   ├── EduGlobus
+│   │   │   ├── Byju's
+│   │   │   │   ├── JEE Quiz Project
+│   │   │   │   ├── MyByju's Success 20112019
+│   │   │   │   └── Vidwath App Interfaces
+│   │   │   ├── Elixire99
+│   │   │   ├── EnggMath
+│   │   │   ├── Files
+│   │   │   ├── Languages
+│   │   │   │   ├── English
+│   │   │   │   ├── French
+│   │   │   │   ├── German
+│   │   │   │   ├── Russian
+│   │   │   │   └── Sanskrit
+│   │   │   ├── Media
+│   │   │   │   └── Presentations
+│   │   │   ├── Online Exam System
+│   │   │   ├── Quiz
+│   │   │   ├── Videos
+│   │   │   │   └── Byju's
+│   │   │   ├── english-basic-grammar
+│   │   │   │   ├── css
+│   │   │   │   ├── img
+│   │   │   │   ├── js
+│   │   │   │   ├── lib
+│   │   │   │   │   ├── animate
+│   │   │   │   │   ├── counterup
+│   │   │   │   │   ├── easing
+│   │   │   │   │   ├── isotope
+│   │   │   │   │   ├── lightbox
+│   │   │   │   │   │   ├── css
+│   │   │   │   │   │   ├── images
+│   │   │   │   │   │   └── js
+│   │   │   │   │   ├── owlcarousel
+│   │   │   │   │   │   └── assets
+│   │   │   │   │   ├── typed
+│   │   │   │   │   ├── waypoints
+│   │   │   │   │   └── wow
+│   │   │   │   └── scss
+│   │   │   │       └── bootstrap
+│   │   │   │           └── scss
+│   │   │   │               ├── forms
+│   │   │   │               ├── helpers
+│   │   │   │               ├── mixins
+│   │   │   │               ├── utilities
+│   │   │   │               └── vendor
+│   │   │   └── renda
+│   │   │       ├── css
+│   │   │       │   └── images
+│   │   │       ├── fonts
+│   │   │       ├── images
+│   │   │       └── js
+│   │   ├── Health
+│   │   ├── Music
+│   │   │   ├── Edit
+│   │   │   └── Originals
+│   │   ├── New 22
+│   │   ├── Notes
+│   │   │   ├── QFET+
+│   │   │   └── notes_final_email_14_6_2021
+│   │   ├── Others
+│   │   │   └── Audio
+│   │   ├── PhD
+│   │   │   └── Articles
+│   │   └── Projects
+│   │       ├── JavaScript; WordFind
+│   │       ├── Templates
+│   │       └── Works
+│   └── htdocs
+│       └── Temmio
+└── Vidéos
+    ├── Doraemon
+    ├── PnF
+    │   ├── Season 01
+    │   ├── Season 02
+    │   ├── Season 03
+    │   └── Season 04
+    ├── TeleVision Commercials
+    └── Various
+
+1310 directories
