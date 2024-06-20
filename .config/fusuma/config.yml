@@ -1,0 +1,31 @@
+swipe:
+  3:
+    left:
+      sendkey: "LEFTMETA+LEFTSHIFT+LEFT"
+    right:
+      sendkey: "LEFTMETA+LEFTSHIFT+RIGHT"
+    up:
+      sendkey: "LEFTMETA+ENTER"
+    down:
+      sendkey: "LEFTMETA+SPACE"
+  4:
+    left:
+      sendkey: "LEFTALT+LEFT"
+    right:
+      sendkey: "LEFTALT+RIGHT"
+    up:
+      command: "bspc node -t 'fullscreen'"
+    down:
+      command: "bspc node -t 'tiled'"
+pinch:
+  in:
+    sendkey: "LEFTMETA"
+  out:
+    sendkey: "LEFTMETA"
+hold:
+  3:
+    sendkey: "LEFTMETA+SPACE"
+  2:
+    sendkey: "LEFTMETA+SPACE"
+  4:
+    sendkey: "LEFTMETA+W"

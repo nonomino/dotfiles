@@ -1,0 +1,158 @@
+(defwidget launcher []
+  (button :class "launcherbox"
+          :onclick "~/.config/bspwm/scripts/openapps --launcher"
+    (box :class "content"
+         :orientation "h"
+         :space-evenly false
+      (label :text "" :class "icon-deb")
+      (label :text "" :class "placeholder")
+    )
+  )
+)
+
+(defwidget seperator []
+  (box :class "seperator"
+       :orientation "h"
+       :space-evenly false
+       :valign "center"
+  (label :text "|")
+  )
+)
+
+(defwidget clip []
+  (button :class "clipboard"
+          :onclick "~/.config/bspwm/scripts/openapps --clip"
+          :tooltip "clipboard"
+    ""
+  )
+)
+
+(defwidget layout []
+  (button :class "layout"
+          :onclick "~/.config/bspwm/scripts/switch-layouts"
+          :tooltip "layout"
+    "${current_layout}"
+  )
+)
+
+(defwidget battery []
+  (button :class "battery"
+          :tooltip "will be full in ${bat_to_charge}"
+    "${bat_icon}  ${bat}"
+  )
+)
+
+(defwidget volume []
+  (button :class "volume"
+          :tooltip "volume level"
+    " ${volume}%"
+  )
+)
+
+(defwidget bluetooth []
+  (button :class "bluetooth"
+          :tooltip "bluetooth"
+          :onclick "xdotool key super+slash"
+    "${bluetooth_icon}"
+  )
+)
+
+(defwidget network_speed []
+  (button :class "network_speed"
+          :tooltip "connections"
+          :timeout "10000000ms"
+          :onclick "xdotool key super+slash"
+    " ${network_down}"
+  )
+)
+
+
+(defwidget tray []
+  (button :class "tray"
+          :onclick "eww -c ~/.config/eww open-many --toggle status"
+    ""
+  )
+)
+
+(defwidget workspaces []
+  (box :class "workspacesbox"
+       :orientation "h"
+       :space-evenly false
+       :valign "center"
+    (literal :content "${workspaces}")
+  )
+)
+
+(defwidget bardate []
+  (box :class "bardatebox"
+       :orientation "h"
+       :space-evenly true
+    (button :onclick "eww -c ~/.config/eww open-many --toggle date" timeku)
+  )
+)
+
+(defwidget powerbutton []
+  (button :class "powerbutton"
+          :onclick "rofi -show power-menu -modi power-menu:powermenu-rofi"
+    "⏻"
+  )
+)
+
+(defwidget left []
+  (box :class "left"
+       :orientation "h"
+       :space-evenly false
+       :halign "start"
+    (launcher)
+    (seperator)
+    (workspaces)
+  )
+)
+
+(defwidget center []
+  (box :class "center"
+       :orientation "h"
+       :space-evenly false
+       :halign "center"
+    (bardate)
+  )
+)
+
+(defwidget right []
+  (box :class "right"
+       :orientation "h"
+       :space-evenly false
+       :halign "end"
+    (tray)
+    (layout)
+    (clip)
+    (seperator)
+    (battery)
+    (volume)
+    (network_speed)
+    (bluetooth)
+    (seperator)
+    (powerbutton)
+  )
+)
+
+(defwidget bar []
+  (box :class "bar"
+       :orientation "h"
+       :space-evenly true
+    (left)
+    (center)
+    (right)
+  )
+)
+
+(defwindow bar
+  :geometry (geometry :x "0px"
+                      :y "8px"
+                      :width "85%"
+                      :height "20px"
+                      :anchor "center top")
+  :windowtype "desktop"
+  :wm-ignore false
+  :reserve (struts :distance "40px" :side "top")
+(bar))

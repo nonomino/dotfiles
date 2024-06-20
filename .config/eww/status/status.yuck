@@ -1,0 +1,37 @@
+(defwidget cpu_temp []
+  (box :class "cpu-temp"
+       :orientation "v"
+       :valign "start"
+       :halign "start"
+
+       (box :class ""
+            :halign "start"
+            " frying at ${EWW_TEMPS['CORE_0']}°C"
+       )
+       (box :class ""
+            :halign "start"
+            "Using ${EWW_RAM['used_mem_perc']}% memory"
+       )
+       (box :class ""
+            :halign "start"
+            "  usage: ${EWW_DISK['free']}"
+       )
+       (box :class ""
+            :halign "start"
+            "󰍛 at"
+       )
+       (box :class ""
+            :halign "start"
+            "󱚽 SSID"
+       )
+  )
+)
+
+
+(defwindow status
+  :geometry (geometry :x "1050px"
+                      :y "50px"
+                      :width "220px"
+                      :height "200px")
+  :wm-ignore true
+(cpu_temp))

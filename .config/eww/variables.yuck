@@ -1,0 +1,43 @@
+(defpoll network_status :interval "1s" "~/.config/eww/scripts/network.sh status")
+(defpoll network_icon :interval "1s" "~/.config/eww/scripts/network.sh icon")
+(defpoll network_radio :interval "1s" "~/.config/eww/scripts/network.sh radio-status")
+(defpoll network_ssid :interval "1s" "~/.config/eww/scripts/network.sh ssid")
+(defpoll network_down :interval "2s" "bmon -p 'wlp*' -o format:fmt='$(attr:rxrate:packets)kbps\\n' -o format:quitafter=2 | tail -n 1")
+
+(defpoll volume_icon :interval "1s" "~/.config/eww/scripts/volume.sh icon")
+(defpoll volume :interval "1s" "wpctl get-volume @DEFAULT_AUDIO_SINK@ | awk '{print \$2 * 100}'")
+(defpoll volume_value :interval "1s" "~/.config/eww/scripts/volume.sh vol")
+(defpoll is_muted :interval "1s" "~/.config/eww/scripts/volume.sh muted")
+(defpoll bat_icon :interval "1s" "~/.config/eww/scripts/battery icon")
+(defpoll bat_to_charge :interval "30s" "upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E 'time to full' | awk '{print $4 $5}'")
+(defpoll current_layout :interval "1s" "~/.config/bspwm/scripts/layout-icon")
+; (defpoll layout_name :interval "1s" "~/.config/bspwm/scripts/layout-name")
+
+(defpoll mic :interval "1s" "~/.config/eww/scripts/mic get")
+(defpoll mic_status :interval "1s" "~/.config/eww/scripts/mic status")
+
+(defpoll bluetooth_state :interval "10s" "~/.config/eww/scripts/bluetooth state")
+(defpoll bluetooth_icon :interval "10s" "~/.config/eww/scripts/bluetooth icon")
+(defpoll redshift_state :interval "1s" "~/.config/eww/scripts/redshift state")
+
+(defpoll completeday :interval "1s" "date '+%A, %d %B'")
+(defpoll lithour :interval "1s" "date +%H")
+(defpoll litmin :interval "1s" "date +%M")
+(defpoll litsec :interval "1s" "date +%S")
+(defpoll timeku :interval "30s" "fzclck")
+; Original date date '+%H:%M:%S %p'
+(defpoll calendar_day :interval "11h" "date '+%d'")
+(defpoll calendar_month :interval "11h" "date '+%m'")
+(defpoll calendar_year :interval "11h" "date '+%Y'")
+(defpoll date :interval "1s" "date '+ %a %d %b, %I:%M %p'")
+(defpoll shortday :interval "1h" "date '+%d %b %y'")
+(defpoll weekday :interval "24h" "date +%A")
+
+(defpoll bat :interval "5s" "upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk '/percentage/ {print $2}'")
+(defpoll art		:interval "1s"  "MediaControl coverloc")
+(defpoll title		:interval "1s"  "MediaControl title")
+(defpoll artist		:interval "1s"  "MediaControl artist")
+(defpoll playpause	:interval "1s"  "MediaControl statusicon")
+
+(deflisten workspaces "~/.config/eww/scripts/workspaces")
+(deflisten tray "tail -F ~/.config/eww/scripts/tray-status 2> /dev/null")

@@ -1,0 +1,5 @@
+(include "variables.yuck")
+(include "bar/bar.yuck")
+(include "date/date.yuck")
+(include "status/status.yuck")
+(include "powermenu/powermenu.yuck")
