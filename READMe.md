@@ -5,11 +5,12 @@
 
 ### Highlights
 
-* eww widgets
-* rofi launcher
-* picom compositor (with animations!)
-* plank dock
-* touchpad gestures with fusuma
+* [gruvbox](https://github.com/morhetz/gruvbox) everywhere 😻
+* [eww bar](https://elkowar.github.io/eww/) with fuzzy clock
+* [rofi](https://davatorium.github.io/rofi/) launcher
+* [picom](https://github.com/pijulius/picom) compositor (with animations, somewhat buggy)
+* [plank](https://github.com/ricotz/plank) dock
+* touchpad gestures with [fusuma](https://github.com/iberianpig/fusuma)
 
 ### Credits
 This setup was possible only because of:
