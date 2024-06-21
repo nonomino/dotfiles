@@ -25,7 +25,7 @@ super + p
 	pkill picomj; picomj --animations --animation-for-open-window fly-in -b &
 
 super + l
-	xdotool key super+0; lock
+	lock
 
 super + shift + l
 	rofi -show power-menu -modi power-menu:powermenu-rofi

@@ -6,6 +6,8 @@ DEFAULT='#FABD2FBB'
 TEXT='#83A598FF'
 WRONG='#CC241DAA'
 VERIFYING='#98971AAA'
+FONT='SofiaPro'
+BG='/home/eugene/.config/walls/current/lockscreen.jpg'
 
 i3lock-color \
 --insidever-color=$CLEAR     \
@@ -23,13 +25,13 @@ i3lock-color \
 --layout-color=$TEXT         \
 --keyhl-color=$WRONG         \
 --bshl-color=$WRONG          \
---time-font="SofiaPro"       \
---date-font="SofiaPro"       \
---layout-font="SofiaPro"     \
---verif-font="SofiaPro"      \
---wrong-font="SofiaPro"      \
---wrong-font="SofiaPro"      \
---greeter-font="SofiaPro"    \
+--time-font=$FONT       \
+--date-font=$FONT       \
+--layout-font=$FONT     \
+--verif-font=$FONT      \
+--wrong-font=$FONT      \
+--wrong-font=$FONT      \
+--greeter-font=$FONT    \
 --verif-text="validate..."   \
 --time-size=40               \
 --date-size=20               \
@@ -38,11 +40,10 @@ i3lock-color \
 --wrong-size=18              \
 --greeter-size=26            \
 --screen 1                   \
---image=/home/eugene/Media/Images/Wallpapers/driving-vintage.jpg \
+--image=$BG                  \
 --clock                      \
 --radius=45                  \
 --time-str="%H:%M:%S"        \
 --date-str="%A, %Y-%m-%d"    \
 --ind-pos="100:670"          \
 --time-pos="1200:100"        \
-# --no-verify
