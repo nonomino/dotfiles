@@ -1,0 +1,53 @@
+[protocol]
+	version = 2
+
+[alias]
+	c = commit -am
+	fpush = push --force
+	s = status
+	sclone = clone --depth=1
+	amend = commit --amend --all --no-edit
+	undoc = reset HEAD~
+	hreset = reset --hard
+	co = checkout
+	df = diff --color --color-words --abbrev
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cd) %C(bold blue)<%an>%Creset' --abbrev-commit
+	cp = cherry-pick
+	mainormaster = !"git branch --format '%(refname:short)' --sort=-committerdate --list master main | head -n1"
+
+[cache]
+	timeout = 604800
+
+[core]
+	precomposeUnicode = true
+	pager = delta
+
+[help]
+	autocorrect = 1
+
+[push]
+	default = current
+	followTags = true
+	autoSetupRemote = true
+
+[pull]
+	ff = only
+	default = current
+
+[checkout]
+	defaultRemote = origin
+
+[log]
+	date = human
+
+[delta]
+	max-line-length = 700
+	max-line-distance = 0.3
+	syntax-theme = base16
+	file-style = bold yellow ul
+	file-decoration-style = yellow ol ul
+	hunk-header-decoration-style = blue
+	hunk-header-line-number-style = purple bold
+
+[credential]
+	helper = cache --timeout=604800
