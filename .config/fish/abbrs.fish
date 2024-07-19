@@ -2,6 +2,7 @@ abbr up 'sudo apt update; sudo apt upgrade'
 abbr upg 'sudo apt upgrade'
 abbr s 'sudo apt search'
 abbr i 'sudo apt install'
+abbr gti git
 abbr s sudo
 abbr l 'lsd -AX1'
 abbr ls 'lsd -AX'
