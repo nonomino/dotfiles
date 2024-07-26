@@ -3,11 +3,13 @@
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=file&label=LICENSE&labelColor=928374&color=459588)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%8F%97-Work_in_progress-678333?style=for-the-badge&color=FB4934)
 
+> Real men don't use backups, they post their stuff on a ~~public FTP server~~ GitHub and let the rest of the world make copies.
+
+
 ![My Homescreen](./images/home.png)
 
-Real men don't use backups, they post their stuff on a ~public FTP server~ GitHub and let the rest of the world make copies.
-
 ## Highlights
+
 * [gruvbox](https://github.com/morhetz/gruvbox) everywhere 😻
 * [eww bar](https://elkowar.github.io/eww/) with [fuzzy clock](https://github.com/coreymwamba/bash-fuzzy-clock)
 * [rofi](https://davatorium.github.io/rofi/) launcher
@@ -15,10 +17,13 @@ Real men don't use backups, they post their stuff on a ~public FTP server~ GitHu
 * [plank](https://github.com/ricotz/plank) dock
 * touchpad gestures with [fusuma](https://github.com/iberianpig/fusuma)
 
+> INFO: I use [chezmoi](https://chezmoi.io/) to manage my dotfiles. If you have not used chezmoi before, the organisation of this repo may initially confuse you.
+
 ## Gallery
 
 ## Credits
-This setup was possible only because of:
+This setup was possible only because of:  
+
 * [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm/) and all the people whose  config I've shamelessly stolen.
 * The awesome community on [r/unixporn](https://reddit.com/r/unixporn)
 * Various GNU/Linux and _(insert tool name)_ forums.

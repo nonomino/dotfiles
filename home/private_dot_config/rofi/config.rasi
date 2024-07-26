@@ -1,0 +1,125 @@
+/**
+
+From: https://github.com/hidayry/dotfiles-bspwm
+Modified by: nonomino
+
+**/
+
+configuration {
+    modi: "drun,window";
+    lines: 10;
+    font: "Iosevka 13";
+    show-icons: true;
+    icon-theme: "Gruvbox Plus Dark";
+    terminal: "kitty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+		w-border: 0px;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-drun: "   Apps ";
+    display-run: "  Run ";
+    display-filebrowser: "  Files ";
+    display-window: "  Windows ";
+    window-format: "{w} · {c} · {t}";
+}
+
+@theme "themes/gruvbox"
+
+element-text, element-icon , mode-switcher {
+    background-color: inherit;
+    text-color:       inherit;
+}
+
+window {
+    enabled: true;
+		width: 675px;
+    height: 500px;
+    border: 0px;
+    margin: 0px;
+    //border-color: @border-col;
+    border-radius: 10px;
+    background-color: @bg-col;
+}
+
+mainbox {
+    enabled: true;
+    spacing: 5px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px solid;
+    border-radius: 10px;
+    background-color: transparent;
+    children: [ "inputbar", "mode-switcher", "message", "listview" ];
+}
+
+inputbar {
+    children: [prompt, entry];
+    //background-color: @bg-col;
+    background-image: url("/home/eugene/Media/Images/Wallpapers/Nadiia_res.jpg");
+    border-radius: 7px;
+    padding: 50px;
+    margin: 0px;
+}
+
+prompt {
+    background-color: @blue;
+    padding: 6px;
+    text-color: @bg-col;
+    border-radius: 5px;
+    margin: 10px 0px 0px 10px;
+}
+
+textbox-prompt-colon {
+    expand: false;
+    str: ":";
+}
+
+entry {
+    placeholder: "";
+    padding: 6px;
+    margin: 10px 0px 0px 10px;
+    text-color: #000;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+listview {
+    border: 0px 0px 0px;
+    padding: 6px 0px 0px;
+    margin: 10px 0px 0px 10px;
+    columns: 1;
+    background-color: @bg-col;
+}
+
+element {
+    padding: 5px;
+    background-color: @bg-col;
+    text-color: @fg-col  ;
+}
+
+element-icon {
+    size: 30px;
+}
+
+element selected {
+    background-color:  @bg-col;
+    text-color: @fg-col2;
+}
+
+mode-switcher {
+    spacing: 0;
+  }
+
+button {
+    padding: 10px;
+    background-color: @bg-col-light;
+    text-color: @grey;
+    vertical-align: 0.5;
+    horizontal-align: 0.5;
+}
+
+button selected {
+  background-color: @bg-col;
+  text-color: @blue;
+}
