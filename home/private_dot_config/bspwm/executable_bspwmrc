@@ -35,7 +35,7 @@ bspc config pointer_action3         resize_corner
 # [Autostart applications]
 
 pgrep -x sxhkd > /dev/null || sxhkd &
-feh --bg-fill "~/.config/walls/current/homescreen.jpg"  --no-fehbg
+feh --bg-fill "$HOME/.config/walls/current/homescreen.jpg"  --no-fehbg
 plank &
 eww -c ~/.config/eww/ open bar 2>&1 > /dev/null &
 xinput set-prop 10 325 1
