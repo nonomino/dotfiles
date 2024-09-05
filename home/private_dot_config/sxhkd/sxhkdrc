@@ -10,7 +10,7 @@ super + Escape
 	pkill -USR1 -x sxhkd; dunstify "sxhkd reloaded"
 
 super + v
-	rofi -modi "clipboard:greenclip print" -theme clipboard -show clipboard -run-command '{cmd}'
+	rofi_clipboard
 
 super + ctrl + v
 	pkill greenclip; greenclip clear; greenclip daemon &
@@ -28,7 +28,7 @@ super + l
 	lock
 
 super + shift + l
-	rofi -show power-menu -modi power-menu:powermenu-rofi
+	rofi_powermenu
 
 super + e
 	nemo 2>&1 > /dev/null

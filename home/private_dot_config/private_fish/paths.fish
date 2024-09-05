@@ -13,7 +13,9 @@ set -gx HISTFILE           $XDG_STATE_HOME/bash/history
 fish_add_path ~/go/bin
 fish_add_path $CARGO_HOME/bin
 fish_add_path ~/.local/bin/
+fish_add_path ~/.config/bin/
 fish_add_path ~/Apps
+fish_add_path /opt/lampp/
 fish_add_path ~/.spicetify
 mise activate fish | source
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
