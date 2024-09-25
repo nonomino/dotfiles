@@ -3,7 +3,7 @@
 ## Author : Aditya Shakya (github@adi1090x)
 
 # Variables
-theme="$HOME/.config/rofi/styles/powermenu"
+theme="$HOME/.config/rofi/powermenu"
 uptime="`uptime -p | sed -e 's/up //g'`"
 host=`hostname`
 shutdown=''
