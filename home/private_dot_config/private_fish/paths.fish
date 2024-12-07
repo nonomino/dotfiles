@@ -10,6 +10,7 @@ set -gx SDKMAN_DIR         $XDG_DATA_HOME/sdkman
 set -gx RUSTUP_HOME        $XDG_DATA_HOME/rustup
 set -gx GNUPGHOME          $XDG_DATA_HOME/gnupg
 set -gx HISTFILE           $XDG_STATE_HOME/bash/history
+set -gx R_LIBS_USER        $HOME/Apps/R
 fish_add_path ~/go/bin
 fish_add_path $CARGO_HOME/bin
 fish_add_path ~/.local/bin/

@@ -39,11 +39,13 @@ feh --bg-fill "$HOME/.config/walls/current/homescreen.jpg"  --no-fehbg
 plank &
 eww -c ~/.config/eww/ open bar 2>&1 > /dev/null &
 xinput set-prop 10 325 1
+kando &
 dunst -conf ~/.config/dunst/dunstrc &
 fusuma -d  2>&1 > /dev/null &
 greenclip daemon &
 # picomj --animations --animation-for-open-window fly-in --animations --animation-for-open-window zoom -f -b &
 picomlb -b &
+xmodmap ~/.Xmodmap
 # [BSPWM rules]
 
 bspc rule -a Plank border=off

@@ -7,7 +7,7 @@ Modified by: nonomino
 
 configuration {
     modi: "drun,window";
-    lines: 10;
+    lines: 15;
     font: "Iosevka 13";
     show-icons: true;
     icon-theme: "Gruvbox Plus Dark";
@@ -83,9 +83,7 @@ entry {
     padding: 6px;
     margin: 10px 0px 0px 10px;
     text-color: #000;
-		border: 3px solid;
-		border-color: #3C3836;
-    border-radius: 14px;
+		border-bottom: 3px solid;
     background-color: transparent;
 }
 
@@ -93,7 +91,7 @@ listview {
     border: 0px 0px 0px;
     padding: 6px 0px 6px 0px;
     margin: 10px 0px 0px 10px;
-    columns: 2;
+    columns: 1;
     background-color: @bg-col;
 }
 
@@ -105,13 +103,14 @@ element {
 }
 
 element-icon {
-    size: 35px;
+    size: 30px;
 }
 
 element selected {
     padding: 100px;
-    border-radius: 80px;
-    text-color: @fg-col2;
+    border-radius: 10px;
+    text-color: #FFF;
+		background-color: #CC241D;
 }
 
 mode-switcher {

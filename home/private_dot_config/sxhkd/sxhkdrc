@@ -4,10 +4,13 @@ super + Return
 	kitty
 
 super + @space
-	rofi -show drun -show-icons
+	rofi -show drun -theme "~/.config/rofi/launcher.rasi" -show-icons
 
 super + Escape
 	pkill -USR1 -x sxhkd; dunstify "sxhkd reloaded"
+
+# super + @tab
+#	rofi -show window -show-icons
 
 super + v
 	rofi_clipboard
