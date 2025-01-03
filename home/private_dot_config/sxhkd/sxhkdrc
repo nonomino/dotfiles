@@ -37,7 +37,7 @@ super + e
 	nemo 2>&1 > /dev/null
 
 super + z
-	firefox-devedition
+	floorp
 
 super + b
 	brightnessctl set +60
@@ -56,6 +56,9 @@ super + control + n
 
 super + slash
 	networkmanager-dmenu > /dev/null 2>&1 &
+
+super + q
+	bspc node -g sticky
 
 super + comma
 	scrot

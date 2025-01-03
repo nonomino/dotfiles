@@ -2,7 +2,7 @@
 (defpoll network_icon :interval "1s" "~/.config/eww/scripts/network.sh icon")
 (defpoll network_radio :interval "1s" "~/.config/eww/scripts/network.sh radio-status")
 (defpoll network_ssid :interval "1s" "~/.config/eww/scripts/network.sh ssid")
-(defpoll network_down :interval "2s" "bmon -p 'wlp*' -o format:fmt='$(attr:rxrate:packets)kbps\\n' -o format:quitafter=2 | tail -n 1")
+(defpoll network_down :interval "2s" "bmon -p 'wlp*' -o format:fmt='$(attr:rxrate:packets)KB/s\\n' -o format:quitafter=2 | tail -n 1")
 
 (defpoll volume_icon :interval "1s" "~/.config/eww/scripts/volume.sh icon")
 (defpoll volume :interval "1s" "wpctl get-volume @DEFAULT_AUDIO_SINK@ | awk '{print \$2 * 100}'")
